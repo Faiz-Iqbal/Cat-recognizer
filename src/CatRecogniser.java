@@ -1,7 +1,7 @@
 import java.util.Scanner;
 /**
  * @MohammedFaizIqbal 
- * Software Development 1, Coursework 2.
+ *
  * 
  * 
  */
